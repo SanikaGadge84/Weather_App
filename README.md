@@ -57,7 +57,7 @@ Proper error handling for invalid city names
 
 Clean and simple user interface
 
-***How the App Works***
+# How the App Works
 
 The user enters a city name in the search box.
 
@@ -77,7 +77,7 @@ If the city does not exist:
 
 An error message is shown without crashing the app.
 
-***Where This App Can Be Used***
+# Where This App Can Be Used
 
 Daily weather checking
 
@@ -89,7 +89,7 @@ Understanding frontend state management
 
 Beginner-level weather dashboards
 
-***What I Learned From This Project***
+# What I Learned From This Project
 
 How to integrate third-party APIs in React
 
@@ -103,7 +103,7 @@ How to structure a React project properly
 
 How to push projects to GitHub and manage versions
 
-**Limitations**
+# Limitations
 
 No backend or database integration
 
@@ -113,7 +113,7 @@ No authentication system
 
 Limited weather condition categories
 
-**Future Improvements**
+# Future Improvements
 
 Move API key to environment variables
 
@@ -127,6 +127,6 @@ Convert API handling to Axios
 
 Deploy the application online
 
-**Final Note**
+# Final Note 
 
 This project helped me gain confidence in building real-world React applications and understanding how APIs work in practice. It strengthened my fundamentals in React, error handling, and UI logic, and prepared me for more advanced full-stack projects.
