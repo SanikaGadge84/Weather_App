@@ -11,16 +11,15 @@ Duration: 4 Weeks
 Mentor: NEELA SANTOSH
 
 
-About the Project
+# About the Project
 
 This is a weather application built using React.js that allows users to search for any city and view real-time weather information using the OpenWeatherMap API.
-
 I created this project to understand how frontend applications interact with third-party APIs and how to handle real-world scenarios such as invalid inputs and error responses. Before this project, I had only worked on static or simple applications. This project helped me understand how dynamic data is fetched, processed, and displayed in the UI.
-
 The app displays temperature, humidity, minimum and maximum temperature, and weather conditions. It also changes images and icons dynamically based on the weather.
 
-Technologies Used
-Frontend
+# Technologies Used
+
+***Frontend***
 
 React.js – Used to build the user interface and manage state
 
@@ -30,17 +29,17 @@ JavaScript (ES6+) – Core logic and API handling
 
 CSS – Custom styling
 
-API
+***API***
 
 OpenWeatherMap API – Used to fetch real-time weather data
 
-Features
+# Features
 
 Search weather by city name
 
 Real-time weather data fetched from an external API
 
-Displays:
+***Displays:***
 
 Current temperature
 
@@ -58,7 +57,7 @@ Proper error handling for invalid city names
 
 Clean and simple user interface
 
-How the App Works
+***How the App Works***
 
 The user enters a city name in the search box.
 
@@ -78,7 +77,7 @@ If the city does not exist:
 
 An error message is shown without crashing the app.
 
-Where This App Can Be Used
+***Where This App Can Be Used***
 
 Daily weather checking
 
@@ -90,7 +89,7 @@ Understanding frontend state management
 
 Beginner-level weather dashboards
 
-What I Learned From This Project
+***What I Learned From This Project***
 
 How to integrate third-party APIs in React
 
@@ -104,7 +103,7 @@ How to structure a React project properly
 
 How to push projects to GitHub and manage versions
 
-Limitations
+**Limitations**
 
 No backend or database integration
 
@@ -114,7 +113,7 @@ No authentication system
 
 Limited weather condition categories
 
-Future Improvements
+**Future Improvements**
 
 Move API key to environment variables
 
@@ -128,6 +127,6 @@ Convert API handling to Axios
 
 Deploy the application online
 
-Final Note
+**Final Note**
 
 This project helped me gain confidence in building real-world React applications and understanding how APIs work in practice. It strengthened my fundamentals in React, error handling, and UI logic, and prepared me for more advanced full-stack projects.
