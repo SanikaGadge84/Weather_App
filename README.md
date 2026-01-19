@@ -130,3 +130,5 @@ Deploy the application online
 # Final Note 
 
 This project helped me gain confidence in building real-world React applications and understanding how APIs work in practice. It strengthened my fundamentals in React, error handling, and UI logic, and prepared me for more advanced full-stack projects.
+
+<img width="1724" height="879" alt="Image" src="https://github.com/user-attachments/assets/b18f32c8-3b9f-46b5-af70-6d8838bf2650" />
